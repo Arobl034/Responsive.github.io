@@ -12,5 +12,7 @@ Responsive design ensures that web applications render well on a variety of devi
 
 - The Bootstrap portfolio should minimize the use of media queries.
 
+## Published:
+<https://arobl034.github.io/Responsive.github.io/>
 
 
